@@ -3,7 +3,7 @@
  */
 public class Hello {
     /*
-    heheh
+    hehe
      */
     private int i = 0;
     /**
